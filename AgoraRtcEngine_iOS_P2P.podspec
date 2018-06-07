@@ -81,7 +81,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = {  :http =>"https://github.com/maopenglin/AgoraRtcEngineKitP2p/blob/master/AgoraRtcEngineKit.framework.zip" }
+  s.source       = {  :http =>"https://www.dropbox.com/s/abioo4tt3kox0l6/AgoraRtcEngineKit.framework.zip?dl=0" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
