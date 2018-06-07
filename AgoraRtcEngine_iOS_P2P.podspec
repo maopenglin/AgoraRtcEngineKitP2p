@@ -16,8 +16,8 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "AgoraRtcEngine_iOS_P2P"
-  s.version      = "1.0.0"
-  s.summary      = "A short description of AgoraRtcEngine_iOS_P2P."
+  s.version      = "2.0.0"
+  s.summary      = "AgoraRtcEngine_iOS_P2P"
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
@@ -25,7 +25,7 @@ Pod::Spec.new do |s|
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   s.description  = <<-DESC
-                    p2psdk
+                    AgoraRtcEngine_iOS_P2P
                    DESC
 
   s.homepage     = "https://github.com/maopenglin/AgoraRtcEngineKitP2p"
@@ -55,8 +55,6 @@ Pod::Spec.new do |s|
   #
 
   s.author             = { "毛鹏霖" => "maoepnglin@holla.world" }
-  # Or just: s.author    = "毛鹏霖"
-  # s.authors            = { "毛鹏霖" => "maoepnglin@ruiyitechs.com" }
   # s.social_media_url   = "http://twitter.com/毛鹏霖"
 
   # ――― Platform Specifics ――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
